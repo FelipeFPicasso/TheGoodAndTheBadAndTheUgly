@@ -176,7 +176,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Main Menu
+  m_text: 'Menu Principal
 
 '
   m_isRightToLeft: 0
@@ -555,7 +555,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 4.298}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -432.05, y: 195.14}
+  m_AnchoredPosition: {x: -369, y: 200}
   m_SizeDelta: {x: 354.41077, y: 114.718}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1058684172
@@ -887,7 +887,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Quit
+  m_text: 'Sair
 
 '
   m_isRightToLeft: 0
@@ -1180,7 +1180,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0025024, y: -0.0025024}
+  m_AnchoredPosition: {x: -2, y: -0.0025024}
   m_SizeDelta: {x: 1069, y: 505}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1846301291
@@ -1278,7 +1278,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: GameOver
+  m_text: "Miss\xE3o Fracassada"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9121432e1ab91e340ad61f81825fb971, type: 2}
   m_sharedMaterial: {fileID: 1949173159024980402, guid: 9121432e1ab91e340ad61f81825fb971, type: 2}
@@ -1343,7 +1343,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 0, z: -54.45526, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -1414,7 +1414,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Killed Enemies:'
+  m_text: 'Abates:'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9121432e1ab91e340ad61f81825fb971, type: 2}
   m_sharedMaterial: {fileID: 1949173159024980402, guid: 9121432e1ab91e340ad61f81825fb971, type: 2}
