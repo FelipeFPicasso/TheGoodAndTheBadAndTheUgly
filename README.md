@@ -26,10 +26,13 @@
     - Vídeo do projeto em funcionamento: 
         - [Demo em vídeo](https://drive.google.com/file/d/1uxTHLEHhvVI48cMtw_PJk9Do-R_FBVsk/view?usp=sharing)
 
+- *Organização do projeto:*
+    - *Trello:*
+        - ![alt text](image.png)
+
 - *Desenvolvedores:*
     - Felipe Frantz Picasso -> GitHub: https://github.com/FelipeFPicasso.
     - Leonardo Cezar Russi Cunha -> GitHub: https://github.com/leocunha2030.
-
 
 
 
